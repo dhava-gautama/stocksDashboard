@@ -12,8 +12,8 @@ import numpy as np
 
 # Constants
 API_ENDPOINTS = {
-    "Top Performers": st.secrets["topPerformers "],
-    "Top Picks": st.secrets["topPicks "],
+    "Top Performers": st.secrets["topPerformers"],
+    "Top Picks": st.secrets["topPicks"],
     "ETFs": st.secrets["ETFs"]
 }
 
